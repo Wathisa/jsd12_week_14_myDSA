@@ -234,7 +234,7 @@ Stack คือโครงสร้างข้อมูลแบบ **เข�
 ## ภาพตัวอย่าง Big-O
 
 ![Big-O Notation](./images/big-o-notation.png)
-*Image source: [Recommended YouTube video from class](https://www.youtube.com/watch?v=XMUe3zFhM5c)*
+*Image source: https://www.youtube.com/watch?v=XMUe3zFhM5c*
 
 ภาพนี้แสดงให้เห็นว่า algorithm แต่ละแบบใช้เวลาเพิ่มขึ้นไม่เท่ากัน เมื่อจำนวนข้อมูลเพิ่มขึ้น
 
@@ -318,3 +318,4 @@ for (let i of numbers) {
 - LeetCode: https://leetcode.com/
 - https://www.youtube.com/watch?v=XMUe3zFhM5c
 - https://www.youtube.com/watch?v=g2o22C3CRfU
+- https://www.youtube.com/watch?v=lWHbg1SrUqc
